@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-PyMongo
+python-dotenv
+pymongo
+bcrypt
+dnspython
+google-generativeai
+reportlab
+requests
+gunicorn
